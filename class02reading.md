@@ -6,14 +6,14 @@ What is structural and semantic markup ?
 * Structural markup: the elements that you can use to describe both headings and paragraphs.
 * Semantic markup: the elements that clearly describe their meaning in a human- and machine-readable way.
 ## Structural markup
-> Headings
-> Paragraphs
+* Headings
+* Paragraphs
 ## Semantic markup
-> Strong & Emphasis
-> Quotations
-> Abbreviations & Acronyms
-> Citations & Definitions
-> Auth or Details
+* Strong & Emphasis
+* Quotations
+* Abbreviations & Acronyms
+* Citations & Definitions
+* Auth or Details
 # CSS #
 
 CSS is the language we use to style an HTML document and it describes how HTML elements should be displayed.
@@ -28,7 +28,10 @@ Structure
 
 ![css](https://mdn.mozillademos.org/files/9461/css-declaration-small.png)
 
-# JavaScripts # ## it is a programming language of the Web. ##
+
+
+# JavaScripts :
+- it is a programming language of the Web. ##
 
 ### How do i write a script for a web page? ###
 
