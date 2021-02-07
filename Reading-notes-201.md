@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 
-Hi all, my name is Mahmoud alzoubi , and this is my first week as software development student at class-201. I will share what i learn each day here on this page.:smile:
+Hi all, my name is *Mahmoud alzoubi* , and this is my first week as software development student at class-201. I will share what i learn each day here on this page.:smile:
 
 | subject    | link     |
 | ----------- | ----------- |
