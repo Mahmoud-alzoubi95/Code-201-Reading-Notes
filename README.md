@@ -12,7 +12,7 @@ Hi all, my name is *Mahmoud alzoubi* , and this is my first week as software dev
 | class 06 | [click here](https://mahmoud-alzoubi95.github.io/Code-201-Reading-Notes/class06) |
 | class 07 | [click here](https://mahmoud-alzoubi95.github.io/Code-201-Reading-Notes/class07) |
 | class 08 | [click here](https://mahmoud-alzoubi95.github.io/Code-201-Reading-Notes/class08) |
-| class 09 | [click here]() |
+| class 09 | [click here](https://mahmoud-alzoubi95.github.io/Code-201-Reading-Notes/class09) |
 | class 10 | [click here](https://mahmoud-alzoubi95.github.io/Code-201-Reading-Notes/class-10) |
 | class 11 | [click here]() |
 | class 12 | [click here]() |
