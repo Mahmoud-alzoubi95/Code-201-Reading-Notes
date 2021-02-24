@@ -17,5 +17,5 @@ Hi all, my name is *Mahmoud alzoubi* , and this is my first week as software dev
 | class 11 | [click here](https://mahmoud-alzoubi95.github.io/Code-201-Reading-Notes/class-11) |
 | class 12 | [click here]() |
 | class 13 | [click here](https://mahmoud-alzoubi95.github.io/Code-201-Reading-Notes/class-13) |
-| class 14a | [click here](https://mahmoud-alzoubi95.github.io/Code-201-Reading-Notes/class-14-a) |
-| class 14b | [click here](https://mahmoud-alzoubi95.github.io/Code-201-Reading-Notes/class-14-b) |
+| class 14a |[click here](https://mahmoud-alzoubi95.github.io/Code-201-Reading-Notes/class-14-a) |
+| class 14b |[click here](https://mahmoud-alzoubi95.github.io/Code-201-Reading-Notes/class-14-b) |
